@@ -15,6 +15,15 @@
         "url": "https://github.com/HoussemDjeghri/bridger.git"
       },
       "category": "productivity"
+    },
+    {
+      "name": "carry-on",
+      "description": "Auto-resume Claude Code sessions after a usage-limit reset: hook-native, no daemon, no keystrokes.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HoussemDjeghri/carry-on.git"
+      },
+      "category": "productivity"
     }
   ]
 }
