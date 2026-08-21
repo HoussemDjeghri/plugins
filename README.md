@@ -12,7 +12,7 @@
 
 ## Add the marketplace
 
-```
+```text
 /plugin marketplace add HoussemDjeghri/plugins
 ```
 
@@ -36,11 +36,32 @@ message each other through a file-based bus: named peers, immutable per-pair
 threads, `ask`/`answer` with full live context, delivery that survives
 restarts. No daemon, no runtime — bash + jq.
 
-```
+```text
 /plugin install bridger@houssem-plugins
 ```
 
-Source and docs: [HoussemDjeghri/bridger](https://github.com/HoussemDjeghri/bridger).
+Source and docs: https://github.com/HoussemDjeghri/bridger.
+
+</td>
+</tr>
+
+<tr>
+<td width="140" align="center" valign="middle">
+  <a href="https://github.com/HoussemDjeghri/carry-on">
+    <b>carry-on</b>
+  </a>
+</td>
+<td valign="top">
+
+**Carry your Claude Code context across sessions.** Save and restore project
+context so you can continue work across Claude Code sessions without losing
+important state.
+
+```text
+/plugin install carry-on@houssem-plugins
+```
+
+Source and docs: https://github.com/HoussemDjeghri/carry-on.
 
 </td>
 </tr>
