@@ -48,6 +48,7 @@ Source and docs: https://github.com/HoussemDjeghri/bridger.
 <tr>
 <td width="140" align="center" valign="middle">
   <a href="https://github.com/HoussemDjeghri/carry-on">
+    <img src="https://raw.githubusercontent.com/HoussemDjeghri/carry-on/main/assets/logo.png" width="96" alt="carry-on logo"><br>
     <b>carry-on</b>
   </a>
 </td>
