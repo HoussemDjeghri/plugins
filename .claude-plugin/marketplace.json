@@ -24,6 +24,15 @@
         "url": "https://github.com/HoussemDjeghri/carry-on.git"
       },
       "category": "productivity"
+    },
+    {
+      "name": "self-review",
+      "description": "Review every code change before the turn ends: fresh-context reviewer agents, a verified finding standard, honest convergence, and a measured token budget \u2014 enforced by a Stop hook.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HoussemDjeghri/self-review.git"
+      },
+      "category": "productivity"
     }
   ]
 }
