@@ -29,9 +29,8 @@
       "name": "self-review",
       "description": "Review every code change before the turn ends: fresh-context reviewer agents, a verified finding standard, honest convergence, and a measured token budget \u2014 enforced by a Stop hook.",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/HoussemDjeghri/self-review.git",
-        "path": "plugin"
+        "source": "url",
+        "url": "https://github.com/HoussemDjeghri/self-review.git"
       },
       "category": "productivity"
     }
