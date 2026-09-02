@@ -27,10 +27,12 @@
     },
     {
       "name": "self-review",
-      "description": "Review every code change before the turn ends: fresh-context reviewer agents, a verified finding standard, honest convergence, and a measured token budget \u2014 enforced by a Stop hook.",
+      "description": "Review every code change before the turn ends: fresh-context reviewer agents, a verified finding standard, honest convergence, and a measured token budget — enforced by a Stop hook.",
       "source": {
         "source": "url",
-        "url": "https://github.com/HoussemDjeghri/self-review.git"
+        "url": "https://github.com/HoussemDjeghri/self-review.git",
+        "ref": "v0.5.0",
+        "sha": "de6f6d9b06e5ca8e0b1e721ba0d7be2c89b92a84"
       },
       "category": "productivity"
     }
