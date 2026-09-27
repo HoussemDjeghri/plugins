@@ -31,8 +31,8 @@
       "source": {
         "source": "url",
         "url": "https://github.com/HoussemDjeghri/self-review.git",
-        "ref": "v0.8.4",
-        "sha": "23ee360722e7117e41987d3786b7eac5cd9b4748"
+        "ref": "v0.8.5",
+        "sha": "1e2e7c4a8a0a1c6e85dcd67ddf4be140fe546c58"
       },
       "category": "productivity"
     }
