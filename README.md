@@ -66,6 +66,27 @@ Source and docs: https://github.com/HoussemDjeghri/carry-on.
 
 </td>
 </tr>
+<tr>
+<td width="140" align="center" valign="middle">
+  <a href="https://github.com/HoussemDjeghri/build-split">
+    <b>build-split</b>
+  </a>
+</td>
+<td valign="top">
+
+**Put each build task on the cheapest model that can do it.** Opus plans and
+judges, Sonnet builds what a check can verify, Haiku does narrow lookups.
+Independent tasks build in parallel worktrees; every branch is reviewed by
+self-review before it merges. Experimental (0.x). Requires self-review.
+
+```text
+/plugin install build-split@houssem-plugins
+```
+
+Source and docs: https://github.com/HoussemDjeghri/build-split.
+
+</td>
+</tr>
 </table>
 
 ## License
