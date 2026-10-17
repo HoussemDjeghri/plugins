@@ -27,18 +27,18 @@
     },
     {
       "name": "self-review",
-      "description": "Review every code change before the turn ends: fresh-context reviewer agents, a verified finding standard, honest convergence, and a measured token budget \u2014 enforced by a Stop hook.",
+      "description": "Review every code change before the turn ends: fresh-context reviewer agents, a verified finding standard, honest convergence, and a measured token budget — enforced by a Stop hook.",
       "source": {
         "source": "url",
         "url": "https://github.com/HoussemDjeghri/self-review.git",
-        "ref": "v0.8.9",
-        "sha": "784c860df2099ce7a2945aa35abae35b601fe118"
+        "ref": "v0.9.0",
+        "sha": "10532e06aed617a6a87eaffe2401c1c50be89f64"
       },
       "category": "productivity"
     },
     {
       "name": "build-split",
-      "description": "Plan, build and review with each task on the cheapest model that can do it: Opus plans and judges, Sonnet builds what a check can verify, Haiku does narrow lookups \u2014 in parallel, each branch reviewed by self-review (required).",
+      "description": "Plan, build and review with each task on the cheapest model that can do it: Opus plans and judges, Sonnet builds what a check can verify, Haiku does narrow lookups — in parallel, each branch reviewed by self-review (required).",
       "source": {
         "source": "url",
         "url": "https://github.com/HoussemDjeghri/build-split.git"
